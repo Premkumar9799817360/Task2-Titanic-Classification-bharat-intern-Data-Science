@@ -63,6 +63,9 @@ The **Random Forest Classifier** proved to be the most effective, providing the 
 
 ---
 
+![lIVE DEMO click](https://github.com/Premkumar9799817360/Task2-Titanic-Classification-bharat-intern-Data-Science/assets/83695512/a19d3b94-5822-4205-b529-c8f55a1e60f4)
+
+
 ## 🧾 Conclusion
 This project provided hands-on experience in:
 - Data preprocessing & feature engineering  
@@ -77,10 +80,8 @@ The final **Titanic Survival Prediction Model** demonstrates how **machine learn
 If you have a video demo, you can embed it here:
 
 ```html
-<video width="700" controls>
-  <source src="https://github.com/Premkumar9799817360/Task2-Titanic-Classification-bharat-intern-Data-Science/assets/83695512/a19d3b94-5822-4205-b529-c8f55a1e60f4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
 
 
 
